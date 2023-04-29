@@ -134,7 +134,7 @@ echo ""
 fun_bar "$_Ink/list $_lnk $_Ink $_1nk $key"
 clear
 IP=$(wget -qO- ipv4.icanhazip.com);
-curl -X POST -H 'Authorization: Bearer 8QXhBz0jeUANsAq9ipZJy0SRxOMQ24FG3p3asWbM3XJ' -F 'message='" 
+curl -X POST -H 'Authorization: Bearer W2sgOXZOzKn2rUqLLSvQJWSmG4JTjBvCEbPB6wHj3Cw' -F 'message='" 
 เซิฟเวอร์  $IP "'' https://notify-api.line.me/api/notify > /dev/null 2>&1
 conexao
 echo ""
